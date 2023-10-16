@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Muhammed Jaseer </h1>
 
-<h3 align="center"> Mastering MERN Magic</h3>
+<h3 align="center"> Mastering MEAN Magic</h3>
 
 
 "A full-stack developer on a mission to bring innovation and creativity to every line of code. With a keen eye for detail and a thirst for knowledge, I am constantly seeking out new challenges and opportunities to hone my skills. I believe that coding is not just a profession but a form of art that can inspire and transform the world. From complex algorithms to elegant user interfaces, I am driven by the limitless potential of technology to solve problems and enrich lives. Join me on this exciting journey, and let's create something amazing together."
