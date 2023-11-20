@@ -11,7 +11,7 @@
 * 🌍  I'm based in Calicut, Kerala, India
 * ✉️  How to reach me [mjaseer43@gmail.com](mailto:mjaseer43@gmail.com)
 * 🚀  I'm currently working on [E-Commerce Project](https://github.com/MJaseer/Khoob_Server.git)
-* 🧠  I'm learning Ionic
+* 🧠  I'm learning React
 
 ### Skills
 
